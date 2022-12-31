@@ -49,3 +49,9 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 
 ![Screenshot_20221231_083900](https://user-images.githubusercontent.com/120455099/210141334-31f7c9b9-5f67-4cab-a3c8-61f9b90dd70f.png)
 
+###
+![Screenshot_20221231_083941](https://user-images.githubusercontent.com/120455099/210141451-44d34679-b140-4480-8b9b-211f5350175f.png)
+
+![Screenshot_20221231_084021](https://user-images.githubusercontent.com/120455099/210141456-633c999d-9f45-4d7c-bcd7-0da26c48a4d8.png)
+
+![Screenshot_20221231_084117](https://user-images.githubusercontent.com/120455099/210141459-c76b32a8-3801-40df-a7a2-79069378f680.png)

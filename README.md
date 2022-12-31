@@ -45,5 +45,7 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 ```
 
 ## power BI Desktop Report
+### Home Page:
 
+![Screenshot_20221231_083900](https://user-images.githubusercontent.com/120455099/210141334-31f7c9b9-5f67-4cab-a3c8-61f9b90dd70f.png)
 

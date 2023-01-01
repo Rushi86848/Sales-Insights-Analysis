@@ -44,7 +44,7 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";
 ```
 
-## power BI Desktop Report
+## power BI Dashboard Report
 ### Home Page:
 
 ![Screenshot_20221231_083900](https://user-images.githubusercontent.com/120455099/210141334-31f7c9b9-5f67-4cab-a3c8-61f9b90dd70f.png)
